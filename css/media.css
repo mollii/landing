@@ -1,0 +1,151 @@
+@media screen and (max-width: 1160px) {
+  .container {
+    padding: 0 10px; }
+  .bar-item {
+    height: 70px; }
+  .logo {
+    margin-left: 10px;
+    margin-right: 0; }
+    .logo img {
+      height: 40px; }
+  .navbar li {
+    padding: 0 10px; }
+  .navbar a:hover {
+    padding-bottom: 22px; }
+  .contact-header a {
+    margin: 0 5px; }
+  .team-women {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: column;
+        -ms-flex-direction: column;
+            flex-direction: column; }
+    .team-women .w-item {
+      padding: 5px 0; } }
+
+@media screen and (max-width: 1000px) {
+  .section_num_1 {
+    padding: 80px 0 0 0; }
+  .advantages {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: column;
+        -ms-flex-direction: column;
+            flex-direction: column; }
+    .advantages .advantages-item {
+      padding: 20px 0; }
+  .lets-blog-news {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: column;
+        -ms-flex-direction: column;
+            flex-direction: column;
+    max-width: 320px;
+    margin: 0 auto; }
+    .lets-blog-news .lets-news {
+      padding-bottom: 10px; }
+  .section_num_4 {
+    padding: 2% 0; }
+  .blue-block {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: column;
+        -ms-flex-direction: column;
+            flex-direction: column; }
+  .four-item {
+    padding: 20px 0;
+    margin: 0 auto; }
+  .mobile-app {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: column;
+        -ms-flex-direction: column;
+            flex-direction: column; }
+    .mobile-app .m-app-item {
+      margin: 0 auto;
+      display: block; }
+    .mobile-app div img {
+      display: block;
+      padding-top: 15px;
+      margin: 0 auto; }
+  .registr-forms {
+    max-width: 97%; }
+    .registr-forms span {
+      -webkit-box-orient: vertical;
+      -webkit-box-direction: normal;
+      -webkit-flex-direction: column;
+          -ms-flex-direction: column;
+              flex-direction: column; }
+    .registr-forms input {
+      margin: 10px 0;
+      padding: auto; } }
+
+@media screen and (max-width: 768px) {
+  .container {
+    width: 100%;
+    padding: 0; }
+  .navbar-button a {
+    display: block;
+    z-index: 991; }
+  .navbar {
+    display: none;
+    left: 0;
+    top: 70px;
+    position: absolute;
+    width: 100%; }
+    .navbar ul {
+      -webkit-box-orient: vertical;
+      -webkit-box-direction: normal;
+      -webkit-flex-direction: column;
+          -ms-flex-direction: column;
+              flex-direction: column;
+      background-color: #222222; }
+    .navbar li {
+      padding: 20px 0;
+      -webkit-transition: 0.2s all;
+      -o-transition: 0.2s all;
+      transition: 0.2s all; }
+    .navbar li:hover {
+      background-color: #fff; }
+    .navbar li:hover a {
+      color: #222; }
+    .navbar a {
+      text-align: center;
+      margin: 0 auto;
+      display: block;
+      -webkit-transition: 0.2s all;
+      -o-transition: 0.2s all;
+      transition: 0.2s all; }
+    .navbar a:hover {
+      border: 0;
+      padding: 0; }
+  .block-one, .block-two {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: column;
+        -ms-flex-direction: column;
+            flex-direction: column; }
+    .block-one .news-title, .block-two .news-title {
+      text-align: center;
+      max-width: 90%; }
+    .block-one .news-images, .block-two .news-images {
+      max-width: 90%; } }
+
+@media screen and (max-width: 467px) {
+  .title-header h1 {
+    font-size: 52px; }
+  .m-app-item {
+    max-width: 95%; }
+  .four-item {
+    display: block; }
+    .four-item img {
+      margin: 0 auto;
+      display: block;
+      margin-bottom: 10px; }
+    .four-item p {
+      text-align: center;
+      padding: 0 5px; } }

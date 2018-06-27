@@ -1,0 +1,5 @@
+[2018-06-22 22:19:37] layer "© 2016 PSDfreebies.com – All Right Reserved": Expected end of input but "\u2013" found.
+[2018-06-22 22:19:38] layer "Power by PSDfreebies.com": Unsupported extension: com
+[2018-06-22 22:33:54] layer "Rectangle 4 copy 4.png": Duplicate path: Rectangle 4 copy 4.png
+[2018-06-22 22:33:43] layer "Rectangle 4 copy 4.png": Duplicate path: Rectangle 4 copy 4.png
+[2018-06-22 22:33:31] layer "Rectangle 4 copy 4.png": Duplicate path: Rectangle 4 copy 4.png
